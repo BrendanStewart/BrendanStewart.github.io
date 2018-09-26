@@ -1,0 +1,7 @@
+move to github domain
+
+remove lightbox and make own or learn how to modify it
+
+add animation.css 
+
+add to website an easy upload photo option with password or make desktop java program to do this
